@@ -1,0 +1,712 @@
+[
+  {
+    "part": "KF25-A",
+    "catalog": "Siruba 700F",
+    "page": 2
+  },
+  {
+    "part": "KG131-E",
+    "catalog": "Siruba 700F",
+    "page": 2
+  },
+  {
+    "part": "KJ098-E",
+    "catalog": "Siruba 700F",
+    "page": 2
+  },
+  {
+    "part": "KJ09B-E",
+    "catalog": "Siruba 700F",
+    "page": 2
+  },
+  {
+    "part": "KJ10F",
+    "catalog": "Siruba 700F",
+    "page": 2
+  },
+  {
+    "part": "KF26-A",
+    "catalog": "Siruba 700F",
+    "page": 3
+  },
+  {
+    "part": "KG142-E",
+    "catalog": "Siruba 700F",
+    "page": 3
+  },
+  {
+    "part": "KJ11B-E",
+    "catalog": "Siruba 700F",
+    "page": 3
+  },
+  {
+    "part": "KJ13F",
+    "catalog": "Siruba 700F",
+    "page": 3
+  },
+  {
+    "part": "KG143-E",
+    "catalog": "Siruba 700F",
+    "page": 4
+  },
+  {
+    "part": "KG153-E",
+    "catalog": "Siruba 700F",
+    "page": 4
+  },
+  {
+    "part": "KG155-E",
+    "catalog": "Siruba 700F",
+    "page": 4
+  },
+  {
+    "part": "KJ118-E",
+    "catalog": "Siruba 700F",
+    "page": 4
+  },
+  {
+    "part": "KG152-E",
+    "catalog": "Siruba 700F",
+    "page": 5
+  },
+  {
+    "part": "KG155A-E",
+    "catalog": "Siruba 700F",
+    "page": 5
+  },
+  {
+    "part": "KG333-E",
+    "catalog": "Siruba 700F",
+    "page": 5
+  },
+  {
+    "part": "KG355-E",
+    "catalog": "Siruba 700F",
+    "page": 5
+  },
+  {
+    "part": "KA04E-1",
+    "catalog": "Siruba 700F",
+    "page": 6
+  },
+  {
+    "part": "KA08F",
+    "catalog": "Siruba 700F",
+    "page": 6
+  },
+  {
+    "part": "KA36F",
+    "catalog": "Siruba 700F",
+    "page": 6
+  },
+  {
+    "part": "KB158",
+    "catalog": "Siruba 700F",
+    "page": 6
+  },
+  {
+    "part": "KQ42",
+    "catalog": "Siruba 700F",
+    "page": 6
+  },
+  {
+    "part": "KC17",
+    "catalog": "Siruba 700F",
+    "page": 7
+  },
+  {
+    "part": "KF28",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KF28-E",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KF32-E",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KF37",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG03KG08",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG04F",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG12",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG13",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG15D",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG2",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG24-1",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG24-2D",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG35",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG37",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG4",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG42",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG471",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG54",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG59SK243",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KG68",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KL23-3",
+    "catalog": "Siruba 700F",
+    "page": 8
+  },
+  {
+    "part": "KJ068",
+    "catalog": "Siruba 700F",
+    "page": 9
+  },
+  {
+    "part": "KJ30F",
+    "catalog": "Siruba 700F",
+    "page": 9
+  },
+  {
+    "part": "KJ34",
+    "catalog": "Siruba 700F",
+    "page": 9
+  },
+  {
+    "part": "KJ79",
+    "catalog": "Siruba 700F",
+    "page": 9
+  },
+  {
+    "part": "KF07",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KF07-5",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KL23-4",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KM28",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN08",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN08-E",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN20",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN22",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN24",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN24-A",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN26",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN27",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN27-A",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN34",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN42",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN43",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KN44",
+    "catalog": "Siruba 700F",
+    "page": 10
+  },
+  {
+    "part": "KA26",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KF21-E",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KJ16",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KP23",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KP23-E",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KP28-E",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KP34",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KP39",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KP6",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KP61",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KP62",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KP658",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KQ07",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KQ3",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KQ37-3",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KQ46",
+    "catalog": "Siruba 700F",
+    "page": 11
+  },
+  {
+    "part": "KF21",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KR03-E",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KR07",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KR12",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KR14",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KR19",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KR22",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KR23",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KR29",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KR33",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KR36",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KS13",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KS21",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KS26-2D",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KS27",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KS28",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KS29",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KS33",
+    "catalog": "Siruba 700F",
+    "page": 12
+  },
+  {
+    "part": "KU14",
+    "catalog": "Siruba 700F",
+    "page": 13
+  },
+  {
+    "part": "KU23-28",
+    "catalog": "Siruba 700F",
+    "page": 13
+  },
+  {
+    "part": "KU29",
+    "catalog": "Siruba 700F",
+    "page": 13
+  },
+  {
+    "part": "KU39",
+    "catalog": "Siruba 700F",
+    "page": 13
+  },
+  {
+    "part": "KW05B",
+    "catalog": "Siruba 700F",
+    "page": 14
+  },
+  {
+    "part": "KW14E",
+    "catalog": "Siruba 700F",
+    "page": 14
+  },
+  {
+    "part": "KW22",
+    "catalog": "Siruba 700F",
+    "page": 14
+  },
+  {
+    "part": "KW28E",
+    "catalog": "Siruba 700F",
+    "page": 14
+  },
+  {
+    "part": "KW29E",
+    "catalog": "Siruba 700F",
+    "page": 14
+  },
+  {
+    "part": "KW368",
+    "catalog": "Siruba 700F",
+    "page": 14
+  },
+  {
+    "part": "KW40E-3",
+    "catalog": "Siruba 700F",
+    "page": 14
+  },
+  {
+    "part": "KW40E-4",
+    "catalog": "Siruba 700F",
+    "page": 14
+  },
+  {
+    "part": "KW02E",
+    "catalog": "Siruba 700F",
+    "page": 15
+  },
+  {
+    "part": "KW03E",
+    "catalog": "Siruba 700F",
+    "page": 15
+  },
+  {
+    "part": "KW058",
+    "catalog": "Siruba 700F",
+    "page": 15
+  },
+  {
+    "part": "KW12E",
+    "catalog": "Siruba 700F",
+    "page": 15
+  },
+  {
+    "part": "KW16",
+    "catalog": "Siruba 700F",
+    "page": 15
+  },
+  {
+    "part": "KW36B",
+    "catalog": "Siruba 700F",
+    "page": 15
+  },
+  {
+    "part": "KR35",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KT14-A",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KX04",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KX05",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KX08",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KX09",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY02-A",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY03",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY04",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY05",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY07",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY08",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY09",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY11",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY12",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY14",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY16",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY18",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY19",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY20D",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY21-A",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KY26F",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KZ03",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KZ08F-2",
+    "catalog": "Siruba 700F",
+    "page": 16
+  },
+  {
+    "part": "KZ08F",
+    "catalog": "Siruba 700F",
+    "page": 18
+  }
+]
